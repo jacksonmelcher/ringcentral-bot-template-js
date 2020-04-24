@@ -2,6 +2,10 @@
 
 A template repo for making RingCentral Bots.
 
+### Use template
+
+Ensure you are logged into your GitHub account and click this [link](https://github.com/jacksonmelcher/ringcentral-bot-template/generate).
+
 ### Create bot and get credentials
 
 [Create bot](https://developer.ringcentral.com/new-app?name=Sample+Bot+App&desc=A+sample+app+created+for+the+javascript+chatbot+framework&public=true&type=ServerBot&permissions=ReadAccounts,EditExtensions,SubscriptionWebhook,Glip&redirectUri=https://%3Cchatbot-server%3E/bot/oauth)
