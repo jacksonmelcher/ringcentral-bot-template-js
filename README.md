@@ -6,7 +6,6 @@ A template repo for making RingCentral Bots.
 
 **Ensure you are logged into your GitHub account and click this [link](https://github.com/jacksonmelcher/ringcentral-bot-template/generate).**
 
----
 
 If you need help creating a bot follow these directions or visit [Tyler Long's Repo](https://github.com/tylerlong/glip-ping-chatbot/tree/express).
 
