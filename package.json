@@ -1,0 +1,32 @@
+{
+  "name": "ringcentral-bot-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -r @babel/register -r dotenv/config src/express.js",
+    "ngrok": "npx ngrok http  3000"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "ngrok": "^3.2.7",
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/register": "^7.9.0",
+    "axios": "^0.19.2",
+    "jshint": "^2.11.0",
+    "ringcentral-chatbot": "^1.2.5",
+    "sqlite3": "^4.1.1"
+  },
+  "standard": {
+    "ignore": [
+      "/dist/"
+    ]
+  },
+  "repository": "https://github.com/jacksonmelcher/ringcentral-bot-template.git",
+  "author": "",
+  "license": "MIT"
+}
