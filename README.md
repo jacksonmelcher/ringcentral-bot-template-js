@@ -1,4 +1,4 @@
-# RingCentral-Bot-Init
+# RingCentral-bot-template
 
 A template repo for making RingCentral Bots.
 
