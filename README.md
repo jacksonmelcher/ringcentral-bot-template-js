@@ -6,6 +6,7 @@ A template repo for making RingCentral Bots.
 
 **Ensure you are logged into your GitHub account and click this [link](https://github.com/jacksonmelcher/ringcentral-bot-template/generate).**
 
+This chatbot is powered by the [ringcentral-chatbot framework for JavaScript](https://github.com/tylerlong/ringcentral-chatbot-js).
 
 If you need help creating a bot follow these directions or visit [Tyler Long's Repo](https://github.com/tylerlong/glip-ping-chatbot/tree/express).
 
