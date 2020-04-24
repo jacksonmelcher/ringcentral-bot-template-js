@@ -4,7 +4,7 @@ A template repo for making RingCentral Bots.
 
 ## Use template
 
-**Ensure you are logged into your GitHub account and click this [link](https://github.com/jacksonmelcher/ringcentral-bot-template/generate).**
+Ensure you are **logged into your GitHub account** and click this [link](https://github.com/jacksonmelcher/ringcentral-bot-template/generate) or click `Use this Template`.
 
 This chatbot is powered by the [ringcentral-chatbot framework for JavaScript](https://github.com/tylerlong/ringcentral-chatbot-js).
 
