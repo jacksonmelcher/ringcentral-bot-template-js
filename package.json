@@ -4,10 +4,14 @@
     "main": "index.js",
     "scripts": {
         "dev": "nodemon -r @babel/register -r dotenv/config src/express.js",
-        "ngrok": "npx ngrok http  3000"
+        "test": "jest --watch",
+        "ngrok": "npx ngrok http 3000",
+        "build": "babel src -d dist",
+        "start": "node dist/express.js"
     },
     "devDependencies": {
         "dotenv": "^8.2.0",
+        "jest": "^25.5.2",
         "ngrok": "^3.2.7",
         "nodemon": "^2.0.3"
     },
@@ -18,8 +22,13 @@
         "@babel/register": "^7.9.0",
         "axios": "^0.19.2",
         "jshint": "^2.11.0",
+        "pg": "^8.2.1",
         "ringcentral-chatbot": "^1.2.5",
         "sqlite3": "^4.1.1"
+    },
+    "engines": {
+        "node": "12.16.1",
+        "yarn": "1.22.4"
     },
     "standard": {
         "ignore": [
