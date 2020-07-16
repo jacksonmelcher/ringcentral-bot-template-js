@@ -6,7 +6,7 @@ const handle = async (event) => {
     await eventHandler(event);
 };
 const app = createApp(handle);
-app.listen(process.env.RINGCENTRAL_CHATBOT_EXPRESS_PORT);
+app.listen(process.env.PORT || 3000, () => console.log('Server is running...'));
 
 setInterval(
     () => axios.put(`${process.env.RINGCENTRAL_CHATBOT_SERVER}/admin/maintain`),
