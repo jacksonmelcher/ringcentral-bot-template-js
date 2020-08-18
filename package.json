@@ -23,6 +23,7 @@
         "axios": "^0.19.2",
         "express": "^4.17.1",
         "jshint": "^2.11.0",
+        "log4js": "^6.3.0",
         "pg": "^8.2.1",
         "ringcentral-chatbot": "^1.2.5",
         "sqlite3": "^4.1.1"
