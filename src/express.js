@@ -8,6 +8,7 @@ log4js.configure({
     categories: { default: { appenders: ['out'], level: 'trace' } },
 });
 const logger = log4js.getLogger('EXPRESS');
+
 const handle = async (event) => {
     await eventHandler(event);
 };
