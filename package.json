@@ -28,10 +28,6 @@
         "ringcentral-chatbot": "^1.2.5",
         "sqlite3": "^4.1.1"
     },
-    "engines": {
-        "node": "12.16.1",
-        "yarn": "1.22.4"
-    },
     "standard": {
         "ignore": [
             "/dist/"
