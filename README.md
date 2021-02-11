@@ -21,6 +21,11 @@ If you need help creating a bot follow these directions or visit [Tyler Long's R
 ```
 yarn install
 ```
+### Upgrade dependencies
+
+```
+npx yarn-upgrade-all
+```
 
 ### Start ngrok to get a public address
 
