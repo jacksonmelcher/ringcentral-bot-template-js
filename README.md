@@ -73,3 +73,10 @@ For more information, please read [setup database](https://github.com/tylerlong/
 ### Add the bot to Glip
 
 Follow these steps to [add](https://github.com/tylerlong/glip-ping-chatbot/tree/master#add-the-bot-to-glip) the bot to Glip.
+
+
+### Start Developing
+
+```
+yarn start:dev
+```
