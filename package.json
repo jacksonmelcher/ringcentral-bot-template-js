@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "express.js",
     "scripts": {
-        "dev": "nodemon -r @babel/register -r dotenv/config src/express.js",
+        "start:dev": "nodemon -r @babel/register -r dotenv/config src/express.js",
         "test": "jest --watch",
         "ngrok": "npx ngrok http 3000",
         "build": "babel src -d dist",
