@@ -1,7 +1,7 @@
 {
     "name": "ringcentral-bot-template",
     "version": "1.0.0",
-    "main": "express.js",
+    "main": "index.js",
     "scripts": {
         "start:dev": "nodemon -r @babel/register -r dotenv/config src/express.js",
         "test": "jest --watch",
