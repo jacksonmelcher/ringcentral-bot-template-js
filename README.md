@@ -1,4 +1,4 @@
-# RingCentral-bot-template [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# RingCentral-bot-template [![NPM version][npm-image]][npm-url]  [![Dependency Status][daviddm-image]][daviddm-url]
 
 A template repo for making RingCentral Bots.
 
@@ -83,3 +83,8 @@ Follow these steps to [add](https://github.com/tylerlong/glip-ping-chatbot/tree/
 ```
 yarn start:dev
 ```
+
+[npm-image]: https://badge.fury.io/js/ringcentral-chatbot.svg
+[npm-url]: https://www.npmjs.com/package/ringcentral-chatbot
+[daviddm-image]: https://status.david-dm.org/gh/jacksonmelcher/ringcentral-bot-template.svg
+[daviddm-url]: https://david-dm.org/jacksonmelcher/ringcentral-bot-template
