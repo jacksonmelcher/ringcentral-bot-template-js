@@ -3,7 +3,7 @@
 A template repo for making RingCentral Bots.
 
 ### Yeoman generator
-I started working on a [Yeoman](https://yeoman.io/) Generator that can be found here: https://github.com/jacksonmelcher/generator-glip-bot
+I started working on a [Yeoman](https://yeoman.io/) Generator that can be found here: https://github.com/jacksonmelcher/generator-glip-bot it's not finished yet but feel free to contribute!
 
 ## Use template
 
