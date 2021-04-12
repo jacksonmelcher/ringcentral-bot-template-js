@@ -1,9 +1,9 @@
-# RingCentral-bot-template [![NPM version][npm-image]][npm-url]  [![Dependency Status][daviddm-image]][daviddm-url]
+# RingCentral-bot-template [![NPM version][npm-image]][npm-url]  <!--[![Dependency Status][daviddm-image]][daviddm-url] -->
 
 A template repo for making RingCentral Bots.
 
 ##\ Yeoman generator
-I started working on a [Yeoman](https://yeoman.io/) Generator for this repo. The unfinished generator can be found here: https://github.com/jacksonmelcher/generator-glip-bot feel free to contribute or fork to add your own tools!
+I started working on a [Yeoman](https://yeoman.io/) Generator for this repo. V1 is up and running and can be found [here](https://www.npmjs.com/package/generator-glip-bot)
 
 ## Use template
 
