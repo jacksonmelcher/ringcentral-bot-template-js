@@ -2,8 +2,11 @@
 
 A template repo for making RingCentral Bots.
 
+---
 ## Yeoman generator
-I started working on a [Yeoman](https://yeoman.io/) Generator for this repo. V1 is up and running and can be found [here](https://www.npmjs.com/package/generator-glip-bot)
+
+### I started working on a [Yeoman](https://yeoman.io/) Generator for this repo. It is basic right now but is up and running and can be found [here](https://www.npmjs.com/package/generator-glip-bot)
+---
 
 ## Use template
 
