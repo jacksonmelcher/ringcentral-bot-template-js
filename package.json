@@ -25,7 +25,7 @@
         "log4js": "^6.3.0",
         "pg": "^8.5.0",
         "ringcentral-chatbot": "^1.5.1",
-        "sqlite3": "^5.0.0",
+        "sqlite3": "^5.0.3",
         "yarn-upgrade-all": "^0.5.4"
     },
     "standard": {
